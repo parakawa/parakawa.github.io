@@ -3,6 +3,7 @@ body{
 	font-family: 'Lato',sans-serif;
 }
 
+body, html { overflow-x:hidden; }
 
 .presentacion h1{
 	font-size: 65px;

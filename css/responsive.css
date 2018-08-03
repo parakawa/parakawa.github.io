@@ -1,9 +1,3 @@
-@media screen and (max-width: 500px) {
-    .presentacion h1 {
-        font-size: 21px;
-    }
-}
-
 @media (max-width: 1080px)
 {
    .info-back p{
@@ -16,6 +10,14 @@
    .info-back p{
    	display: block;
    }
+
+   .presentacion h1 {
+    font-size: 1em;
+   }
+
+   .presentacion h2 {
+    font-size: 0.4em;
+   }   
 }
 
 @media (max-width: 343px)
