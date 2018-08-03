@@ -1,0 +1,26 @@
+@media screen and (max-width: 500px) {
+    .presentacion h1 {
+        font-size: 21px;
+    }
+}
+
+@media (max-width: 1080px)
+{
+   .info-back p{
+   	display: none;
+   }
+}
+
+@media (max-width: 767px)
+{
+   .info-back p{
+   	display: block;
+   }
+}
+
+@media (max-width: 343px)
+{
+   .info-back p{
+   	display: none;
+   }
+}
